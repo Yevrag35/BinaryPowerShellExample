@@ -1,0 +1,1 @@
+﻿Import-Module "$PSScriptRoot\BinaryPowerShellExample.dll" -ErrorAction Stop
